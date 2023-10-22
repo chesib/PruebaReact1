@@ -1,0 +1,80 @@
+.search-input {
+	padding: 8px;
+	border: 1px solid #5e5c5c;
+	border-radius: 4px;
+	width: 500px;
+	font-size: 20px;
+	outline: none;
+	text-align: center;
+}
+
+.search-input::placeholder {
+	color: #414141;
+}
+
+/* Estilos para cuando el campo está enfocado (opcional) */
+.search-input:focus {
+	border-color: #007bff;
+	box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
+}
+
+.filter-container {
+	display: flex;
+	justify-content: center;
+	background-color: #000000;
+	padding: 20px;
+	border-bottom: solid rgb(255, 255, 255) 1px;
+}
+footer {
+	background-color: #333; /* Cambia el color de fondo según tus preferencias */
+	color: #fff; /* Cambia el color del texto según tus preferencias */
+	padding: 10px; /* Espaciado interior del footer */
+	text-align: center;
+	border-top: solid rgb(255, 255, 255) 1px;
+}
+.table-container {
+	margin: 0px;
+	min-height: 100vh;
+	background-color: #000000;
+	padding: 20px;
+}
+.table {
+	margin: 0px;
+}
+
+.header {
+	color: #ffffff; /* Color del texto */ /* Espaciado interior del encabezado */
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	width: 100%;
+	border-bottom: solid rgb(255, 255, 255) 1px;
+	background-color: #000000;
+}
+.subtitle {
+	background-color: black;
+	color: white;
+	margin: 0;
+	text-align: center;
+	padding: 5px;
+}
+.logo {
+	font-size: 24px;
+	padding: 20px;
+}
+
+nav ul {
+	list-style: none;
+	display: flex;
+}
+
+nav ul li {
+	margin-right: 20px;
+}
+
+nav ul li a {
+	text-decoration: none;
+	color: #ffffff;
+}
+
+/* Puedes agregar más estilos según tus necesidades */
