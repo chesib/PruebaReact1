@@ -1,3 +1,3 @@
-# prueba react 1 jose medina
+# prueba react 1 jose medina (chesi)
 
-https://www.youtube.com/watch?v=yc2AtC7l4ao
+https://www.youtube.com/watch?v=lGodrSaI4j8
