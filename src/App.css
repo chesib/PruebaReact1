@@ -11,7 +11,17 @@
 .search-input::placeholder {
 	color: #414141;
 }
-
+.lblfor {
+	color: white;
+	padding: 10px;
+}
+.select-form {
+	padding: 5px;
+	font-size: 16px;
+	background-color: #f2f2f2;
+	border: 1px solid #ccc;
+	border-radius: 5px;
+}
 /* Estilos para cuando el campo está enfocado (opcional) */
 .search-input:focus {
 	border-color: #007bff;
@@ -49,7 +59,10 @@ footer {
 	align-items: center;
 	width: 100%;
 	border-bottom: solid rgb(255, 255, 255) 1px;
-	background-color: #000000;
+	background-image: url("https://fotospanm.files.wordpress.com/2016/07/stgooo1.jpg");
+	background-size: cover; /* Ajusta el tamaño de la imagen al contenedor */
+	background-position: center; /* Centra la imagen */
+	background-repeat: no-repeat;
 }
 .subtitle {
 	background-color: black;
